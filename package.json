@@ -33,8 +33,7 @@
   },
   "keywords": [
     "node",
-    "rise",
-    "generator",
+    "generator-rise",
     "yeoman"
   ],
   "author": "Ramon Lopez <Ramon@uSamp.com>",
